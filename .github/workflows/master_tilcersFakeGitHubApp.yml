@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'tilcersFakeGitHubApp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5d4aa44918b1405c860169b1e4628cd9 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f2ec0f754bfe4cd1af6438c0ea75e981 }}
         package: .
